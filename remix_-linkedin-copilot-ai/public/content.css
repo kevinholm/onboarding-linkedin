@@ -1,0 +1,16 @@
+/**
+ * LinkedIn Executive Copilot - Content Styles
+ */
+
+.executive-copilot-btn {
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.executive-copilot-btn:hover {
+  transform: scale(1.1);
+  background-color: #333 !important;
+}
+
+.executive-copilot-btn:active {
+  transform: scale(0.95);
+}
